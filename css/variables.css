@@ -1,0 +1,16 @@
+:root{
+  --primary-theme-color:#20232A;
+  --secondary-theme-color: #282C34;
+  --primary-text-color: #FFFF;
+  --primary-highlight-color: #61DAFB;
+  --primary-font-family:'arial';
+  --padding-section:1.5rem;
+  --padding-container:1rem;
+  --max-width-container:640px;
+  --letter-color-1:#00BEF8;
+  --letter-color-2:#FF0697;
+  --letter-color-3:#FFE600;
+  --letter-color-4:#BB00FF;
+  --letter-color-5:#F5926B;
+  --letter-color-6:#FF00FF;
+}
